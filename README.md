@@ -1,1 +1,1 @@
-# lighthouse_v2
+# lighthouse
